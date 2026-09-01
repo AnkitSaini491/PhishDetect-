@@ -1,1 +1,4 @@
-
+git init
+git add .
+git commit -m "Initial commit - PhishDetect"
+git branch -M main
